@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Props, Data, and Event Triggers", "Props, Data, and Event Triggers\Props, Data, and Event Triggers.csproj", "{F096B5E2-9631-4CD3-9C80-14D20F0D7B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F096B5E2-9631-4CD3-9C80-14D20F0D7B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F096B5E2-9631-4CD3-9C80-14D20F0D7B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F096B5E2-9631-4CD3-9C80-14D20F0D7B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F096B5E2-9631-4CD3-9C80-14D20F0D7B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429D0861-4059-4883-B28E-951B98ADAA10}
+	EndGlobalSection
+EndGlobal
